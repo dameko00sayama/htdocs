@@ -8,6 +8,4 @@ if($str){
     echo "noting";
 }
 
-
-
 ?>
